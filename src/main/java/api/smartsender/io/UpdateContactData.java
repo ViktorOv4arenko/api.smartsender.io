@@ -1,8 +1,5 @@
 package api.smartsender.io;
 
-import org.testng.annotations.Test;
-import settings.SSL;
-
 import javax.net.ssl.HttpsURLConnection;
 import java.io.*;
 import java.net.URL;
